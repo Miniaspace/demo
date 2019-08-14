@@ -50,9 +50,6 @@ ribbon:
     enabled: false
   ReadTimeout: 10000
   ConnectTimeout: 10000
-management:
-  security:
-    enabled: false
 
 feign:
   hystrix:
